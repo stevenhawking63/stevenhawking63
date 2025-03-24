@@ -16,3 +16,5 @@
 
 <h2>My friend information</h2>
 <p>joshuaowens455@gmail.com</p>
+<p>vectorsteve3@gmail.com</p>
+<p>pacquiobill@gmail.com</p>
